@@ -1,0 +1,880 @@
+{
+ "mode": "undo",
+ "seed": 1,
+ "max_actions": 10000,
+ "total": 0.4206442229522549,
+ "games": [
+  {
+   "game": "ar25",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 8,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    5456
+   ],
+   "baseline_actions": [
+    32,
+    50,
+    75,
+    37,
+    89,
+    159,
+    233,
+    73
+   ],
+   "score": 9.555396935966418e-05,
+   "seconds": 42.6,
+   "stats": {
+    "reversible_edges": 371,
+    "irreversible_edges": 4776,
+    "noop_edges": 4449,
+    "fatal_edges": 81,
+    "states": 4265,
+    "game_overs": 81,
+    "resets": 0,
+    "plans": 174
+   },
+   "undo_works": true,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "bp35",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 9,
+   "state": "GAME_OVER",
+   "level_actions": [
+    884
+   ],
+   "baseline_actions": [
+    21,
+    48,
+    44,
+    38,
+    33,
+    87,
+    86,
+    131,
+    163
+   ],
+   "score": 0.0012540693269998565,
+   "seconds": 160.8,
+   "stats": {
+    "reversible_edges": 136,
+    "irreversible_edges": 5687,
+    "noop_edges": 2053,
+    "fatal_edges": 545,
+    "states": 5095,
+    "game_overs": 545,
+    "resets": 0,
+    "plans": 684
+   },
+   "undo_works": true,
+   "inverse_pairs": 1
+  },
+  {
+   "game": "cd82",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 2,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    1242,
+    1287
+   ],
+   "baseline_actions": [
+    55,
+    8,
+    41,
+    21,
+    23,
+    23
+   ],
+   "score": 0.009706181945923816,
+   "seconds": 23.7,
+   "stats": {
+    "reversible_edges": 4588,
+    "irreversible_edges": 705,
+    "noop_edges": 4255,
+    "fatal_edges": 97,
+    "states": 1787,
+    "game_overs": 97,
+    "resets": 0,
+    "plans": 209
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "cn04",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    6300
+   ],
+   "baseline_actions": [
+    29,
+    54,
+    85,
+    300,
+    208,
+    113
+   ],
+   "score": 0.00010090103060624601,
+   "seconds": 33.8,
+   "stats": {
+    "reversible_edges": 6221,
+    "irreversible_edges": 1944,
+    "noop_edges": 1348,
+    "fatal_edges": 118,
+    "states": 3989,
+    "game_overs": 118,
+    "resets": 0,
+    "plans": 142
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "dc22",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    3804
+   ],
+   "baseline_actions": [
+    59,
+    102,
+    67,
+    98,
+    324,
+    578
+   ],
+   "score": 0.0011455227324625966,
+   "seconds": 11.8,
+   "stats": {
+    "reversible_edges": 1208,
+    "irreversible_edges": 65,
+    "noop_edges": 8030,
+    "fatal_edges": 70,
+    "states": 321,
+    "game_overs": 70,
+    "resets": 0,
+    "plans": 303
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "ft09",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    3177
+   ],
+   "baseline_actions": [
+    43,
+    12,
+    23,
+    28,
+    65,
+    37
+   ],
+   "score": 0.0008723347772337456,
+   "seconds": 28.2,
+   "stats": {
+    "reversible_edges": 3285,
+    "irreversible_edges": 2252,
+    "noop_edges": 3847,
+    "fatal_edges": 186,
+    "states": 2048,
+    "game_overs": 186,
+    "resets": 0,
+    "plans": 224
+   },
+   "undo_works": null,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "g50t",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 7,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    78,
+    175,
+    179,
+    230,
+    96,
+    54,
+    67
+   ],
+   "score": 0.0,
+   "seconds": 12.9,
+   "stats": {
+    "reversible_edges": 108,
+    "irreversible_edges": 75,
+    "noop_edges": 125,
+    "fatal_edges": 5,
+    "states": 85,
+    "game_overs": 5,
+    "resets": 0,
+    "plans": 71
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "ka59",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 7,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    28,
+    109,
+    51,
+    51,
+    33,
+    132,
+    326
+   ],
+   "score": 0.0,
+   "seconds": 21.9,
+   "stats": {
+    "reversible_edges": 4109,
+    "irreversible_edges": 265,
+    "noop_edges": 4778,
+    "fatal_edges": 99,
+    "states": 1523,
+    "game_overs": 99,
+    "resets": 0,
+    "plans": 391
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "lf52",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 10,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    776
+   ],
+   "baseline_actions": [
+    32,
+    81,
+    60,
+    71,
+    205,
+    148,
+    244,
+    109,
+    164,
+    225
+   ],
+   "score": 0.003091817312244563,
+   "seconds": 29.8,
+   "stats": {
+    "reversible_edges": 2650,
+    "irreversible_edges": 515,
+    "noop_edges": 3862,
+    "fatal_edges": 15,
+    "states": 200,
+    "game_overs": 15,
+    "resets": 0,
+    "plans": 2402
+   },
+   "undo_works": true,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "lp85",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 5,
+   "win_levels": 8,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    1604,
+    2022,
+    2113,
+    51,
+    2463
+   ],
+   "baseline_actions": [
+    17,
+    38,
+    31,
+    16,
+    41,
+    60,
+    26,
+    159
+   ],
+   "score": 1.1015129583589625,
+   "seconds": 42.9,
+   "stats": {
+    "reversible_edges": 46,
+    "irreversible_edges": 5397,
+    "noop_edges": 4299,
+    "fatal_edges": 77,
+    "states": 5414,
+    "game_overs": 77,
+    "resets": 0,
+    "plans": 86
+   },
+   "undo_works": null,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "ls20",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 7,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    480
+   ],
+   "baseline_actions": [
+    22,
+    123,
+    73,
+    84,
+    96,
+    192,
+    186
+   ],
+   "score": 0.007502480158730158,
+   "seconds": 14.6,
+   "stats": {
+    "reversible_edges": 402,
+    "irreversible_edges": 74,
+    "noop_edges": 190,
+    "fatal_edges": 20,
+    "states": 197,
+    "game_overs": 20,
+    "resets": 0,
+    "plans": 136
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "m0r0",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    437
+   ],
+   "baseline_actions": [
+    30,
+    111,
+    203,
+    26,
+    500,
+    237
+   ],
+   "score": 0.022441937098242572,
+   "seconds": 18.0,
+   "stats": {
+    "reversible_edges": 768,
+    "irreversible_edges": 513,
+    "noop_edges": 5160,
+    "fatal_edges": 64,
+    "states": 637,
+    "game_overs": 64,
+    "resets": 0,
+    "plans": 342
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "r11l",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    106
+   ],
+   "baseline_actions": [
+    22,
+    33,
+    51,
+    26,
+    52,
+    49
+   ],
+   "score": 0.20512298903185341,
+   "seconds": 82.9,
+   "stats": {
+    "reversible_edges": 159,
+    "irreversible_edges": 8800,
+    "noop_edges": 212,
+    "fatal_edges": 261,
+    "states": 4624,
+    "game_overs": 261,
+    "resets": 0,
+    "plans": 297
+   },
+   "undo_works": null,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "re86",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 8,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    26,
+    42,
+    86,
+    108,
+    189,
+    139,
+    424,
+    241
+   ],
+   "score": 0.0,
+   "seconds": 8.5,
+   "stats": {
+    "reversible_edges": 7906,
+    "irreversible_edges": 1330,
+    "noop_edges": 147,
+    "fatal_edges": 99,
+    "states": 4632,
+    "game_overs": 99,
+    "resets": 0,
+    "plans": 217
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "s5i5",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 8,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    2872
+   ],
+   "baseline_actions": [
+    20,
+    89,
+    106,
+    54,
+    162,
+    38,
+    86,
+    83
+   ],
+   "score": 0.00013470652083015424,
+   "seconds": 16.0,
+   "stats": {
+    "reversible_edges": 4333,
+    "irreversible_edges": 688,
+    "noop_edges": 4286,
+    "fatal_edges": 103,
+    "states": 1741,
+    "game_overs": 103,
+    "resets": 0,
+    "plans": 249
+   },
+   "undo_works": null,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "sb26",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 8,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    18,
+    28,
+    18,
+    19,
+    31,
+    23,
+    58,
+    18
+   ],
+   "score": 0.0,
+   "seconds": 10.4,
+   "stats": {
+    "reversible_edges": 2062,
+    "irreversible_edges": 265,
+    "noop_edges": 7646,
+    "fatal_edges": 4,
+    "states": 1267,
+    "game_overs": 4,
+    "resets": 0,
+    "plans": 17
+   },
+   "undo_works": false,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "sc25",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    36,
+    6,
+    32,
+    83,
+    143,
+    50
+   ],
+   "score": 0.0,
+   "seconds": 28.5,
+   "stats": {
+    "reversible_edges": 30,
+    "irreversible_edges": 610,
+    "noop_edges": 1443,
+    "fatal_edges": 17,
+    "states": 584,
+    "game_overs": 17,
+    "resets": 7861,
+    "plans": 18
+   },
+   "undo_works": null,
+   "inverse_pairs": 1
+  },
+  {
+   "game": "sk48",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 8,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    61,
+    177,
+    101,
+    103,
+    230,
+    181,
+    125,
+    92
+   ],
+   "score": 0.0,
+   "seconds": 32.3,
+   "stats": {
+    "reversible_edges": 2088,
+    "irreversible_edges": 2356,
+    "noop_edges": 5303,
+    "fatal_edges": 20,
+    "states": 2518,
+    "game_overs": 20,
+    "resets": 0,
+    "plans": 202
+   },
+   "undo_works": true,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "sp80",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    397
+   ],
+   "baseline_actions": [
+    39,
+    58,
+    25,
+    148,
+    96,
+    152
+   ],
+   "score": 0.045954591063055675,
+   "seconds": 45.7,
+   "stats": {
+    "reversible_edges": 2261,
+    "irreversible_edges": 3588,
+    "noop_edges": 2781,
+    "fatal_edges": 248,
+    "states": 3632,
+    "game_overs": 248,
+    "resets": 0,
+    "plans": 437
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "su15",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 1,
+   "win_levels": 9,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    453
+   ],
+   "baseline_actions": [
+    22,
+    42,
+    26,
+    115,
+    36,
+    31,
+    8,
+    40,
+    41
+   ],
+   "score": 0.005241268928534107,
+   "seconds": 30.9,
+   "stats": {
+    "reversible_edges": 114,
+    "irreversible_edges": 3933,
+    "noop_edges": 5350,
+    "fatal_edges": 151,
+    "states": 3650,
+    "game_overs": 151,
+    "resets": 0,
+    "plans": 209
+   },
+   "undo_works": true,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "tn36",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 7,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    32,
+    72,
+    26,
+    40,
+    30,
+    55,
+    62
+   ],
+   "score": 0.0,
+   "seconds": 72.2,
+   "stats": {
+    "reversible_edges": 1,
+    "irreversible_edges": 0,
+    "noop_edges": 77,
+    "fatal_edges": 2,
+    "states": 3,
+    "game_overs": 2,
+    "resets": 0,
+    "plans": 0
+   },
+   "undo_works": null,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "tr87",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 6,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    54,
+    58,
+    40,
+    45,
+    71,
+    146
+   ],
+   "score": 0.0,
+   "seconds": 8.3,
+   "stats": {
+    "reversible_edges": 6170,
+    "irreversible_edges": 3296,
+    "noop_edges": 0,
+    "fatal_edges": 77,
+    "states": 5976,
+    "game_overs": 77,
+    "resets": 0,
+    "plans": 181
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "tu93",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 2,
+   "win_levels": 9,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    402,
+    45
+   ],
+   "baseline_actions": [
+    19,
+    16,
+    34,
+    42,
+    123,
+    80,
+    14,
+    23,
+    111
+   ],
+   "score": 0.5668296928232739,
+   "seconds": 6.6,
+   "stats": {
+    "reversible_edges": 146,
+    "irreversible_edges": 237,
+    "noop_edges": 252,
+    "fatal_edges": 51,
+    "states": 189,
+    "game_overs": 51,
+    "resets": 0,
+    "plans": 193
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  },
+  {
+   "game": "vc33",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 2,
+   "win_levels": 7,
+   "state": "NOT_FINISHED",
+   "level_actions": [
+    23,
+    14
+   ],
+   "baseline_actions": [
+    7,
+    18,
+    44,
+    61,
+    131,
+    34,
+    152
+   ],
+   "score": 8.54509856872806,
+   "seconds": 17.7,
+   "stats": {
+    "reversible_edges": 2412,
+    "irreversible_edges": 472,
+    "noop_edges": 6067,
+    "fatal_edges": 131,
+    "states": 738,
+    "game_overs": 131,
+    "resets": 0,
+    "plans": 443
+   },
+   "undo_works": null,
+   "inverse_pairs": 0
+  },
+  {
+   "game": "wa30",
+   "mode": "undo",
+   "seed": 1,
+   "actions": 10000,
+   "levels": 0,
+   "win_levels": 9,
+   "state": "NOT_FINISHED",
+   "level_actions": [],
+   "baseline_actions": [
+    71,
+    119,
+    183,
+    98,
+    368,
+    68,
+    79,
+    442,
+    415
+   ],
+   "score": 0.0,
+   "seconds": 6.6,
+   "stats": {
+    "reversible_edges": 2592,
+    "irreversible_edges": 5421,
+    "noop_edges": 599,
+    "fatal_edges": 49,
+    "states": 3857,
+    "game_overs": 49,
+    "resets": 0,
+    "plans": 1007
+   },
+   "undo_works": null,
+   "inverse_pairs": 2
+  }
+ ]
+}
