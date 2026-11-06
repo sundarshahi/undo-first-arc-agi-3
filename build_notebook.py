@@ -32,7 +32,7 @@ Three modes are compared with identical code paths:
 
 No LLM, no network, no game-specific code, no exploitation of the null-coordinate crash reported by Liew (2026)."""))
 
-cells.append(nbf.v4.new_code_cell("""import os, sys, glob, subprocess
+cells.append(nbf.v4.new_code_cell("""import os, sys, glob, subprocess, tempfile
 KAGGLE_WHEELS = "/kaggle/input/competitions/arc-prize-2026-arc-agi-3/arc_agi_3_wheels"
 KAGGLE_ENVS = "/kaggle/input/competitions/arc-prize-2026-arc-agi-3/environment_files"
 try:
@@ -50,7 +50,7 @@ if os.path.isdir(KAGGLE_ENVS):
 elif os.path.isdir("../games/environment_files"):
     os.environ["ARC_ENV_DIR"] = os.path.abspath("../games/environment_files")
 else:
-    os.environ["ARC_ENV_DIR"] = os.path.abspath("environment_files")
+    os.environ["ARC_ENV_DIR"] = os.path.join(tempfile.gettempdir(), "arc_environment_files")  # outside the notebook's outputs
     if not os.path.isdir(os.environ["ARC_ENV_DIR"]):
         from arc_agi import Arcade, OperationMode
         arc = Arcade(operation_mode=OperationMode.NORMAL, environments_dir=os.environ["ARC_ENV_DIR"])
